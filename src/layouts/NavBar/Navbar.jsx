@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 import { menu, close } from "../../assets/images";
 import flogo from "../../assets/images/flogo.png"
+import Horizon_logo from '../../assets/images/horizon.png'
 
 export default function Header() {
   const [isScrolling, setIsScrolling] = useState(false);
@@ -191,7 +192,7 @@ function NavbarMobile() {
             >
               <img
                 className="w-52"
-                src={flogo}
+                src={Horizon_logo}
                 alt="logo"
               />
             </Link>

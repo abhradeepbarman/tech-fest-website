@@ -69,7 +69,7 @@ const ContactSection = () => {
 
                     <h2 class="mt-4 text-base font-medium text-white">Email</h2>
                     <p class="mt-2 text-sm text-dimWhite">Our friendly team is here to help.<br/> Instead <a href='https://wa.me/6381137437' className=' text-accent font-semibold'>Whatsapp</a></p>
-                    <a href='mailto:bitvprayukti@bitsathy.ac.in' rel='noopener' target='_top' class="mt-2 text-sm cursor-pointer text-accent">bitvprayukti@bitsathy.ac.in</a>
+                    <a href='mailto:bitvprayukti@bitsathy.ac.in' rel='noopener' target='_top' class="mt-2 text-sm cursor-pointer text-accent">info@bcrec.ac.in</a>
                 </div>
 
                 <div>
@@ -82,7 +82,8 @@ const ContactSection = () => {
                     
                     <h2 class="mt-4 text-base font-medium text-white">Address</h2>
                     <p class="mt-2 text-sm text-dimWhite">Reach out our college.</p>
-                    <a href="https://goo.gl/maps/w7LzzgoxfPDWQ8bY7" rel="noreferrer" target='_blank' class="mt-2 text-sm text-accent cursor-pointer">Bannari Amman Institute  of Technology, <br/> Sathyamangalam, Erode-638401</a>
+                    <a href="https://goo.gl/maps/w7LzzgoxfPDWQ8bY7" rel="noreferrer" target='_blank' class="mt-2 text-sm text-accent cursor-pointer">Dr. B.C. Roy Engineering College, Durgapur,<br/>Jemua Road, Fuljhore
+                    Durgapur – 713206 </a>
                 </div>
 
                 <div>

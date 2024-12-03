@@ -30,7 +30,7 @@ const EventsSection = () => {
               data-aos-once="true" data-aos-delay="0"
               className="font-medium text-xl tracking-wider mb-6 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
             >
-              <span className='text-2xl'>&nbsp;V-PRAYUKTI’24</span>
+              <span className='text-2xl'>&nbsp;HORIZON’25</span>
             </h2>
             <h3
               data-aos="fade-up"  data-aos-offset="10"

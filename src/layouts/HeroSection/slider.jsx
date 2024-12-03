@@ -12,8 +12,8 @@ const slider = () => {
             className="welcome-text absolute top-0 left-0 w-full px-60 h-full flex items-end justify-end flex-col pb-6 bg-[#0000006a]"
           >
             <h2 className="relative font-bold text-[90px] uppercase text-yellow-100 text-right mb-2 leading-[110px] block">
-              BIT'S <br />
-              V-PRAYUKTI'23
+              BCREC'S <br />
+              HORIZON'24
             </h2>
             <h6 className="text-lg text-yellow-100 px-5 py-3 uppercase bg-[#ffffff1a] rounded-md mb-4">
               Bannari Amman institute of technology, erode
@@ -33,8 +33,8 @@ const slider = () => {
             className="welcome-text absolute top-0 left-0 w-full px-60 h-full flex items-center justify-center flex-col bg-[#0000006a]"
           >
             <h2 className="relative font-bold text-[90px] uppercase text-yellow-100 text-center mb-2 leading-[110px] block">
-              BIT'S <br />
-              V-PRAYUKTI'23
+              BCREC'S <br />
+              HORIZON'24
             </h2>
             <h6 className="text-lg text-yellow-100 px-5 py-3 uppercase bg-[#ffffff1a] rounded-md mb-4">
               Bannari Amman institute of technology, erode

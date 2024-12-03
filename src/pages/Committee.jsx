@@ -16,7 +16,7 @@ const Committee = () => {
             data-aos-once="true"  data-aos-delay="10"
             className="font-medium text-xl tracking-wider mb-6 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
           >
-            V-PRAYUKTI’24
+            HORIZON’25
           </h2>
           <h3
             data-aos="fade-up" data-aos-offset="10"
@@ -170,33 +170,33 @@ const Committee = () => {
                 </h5>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    Mr. GOWDHAM P
+                    ABHRADEEP BARMAN
                   </h5>
                   <p className="text-base text-white">
                     IV YEAR-EEE <br />
-                    gowdham.ee20@bitsathy.ac.in <br />
+                    abhadeep123@gmail.com <br />
                     Backend
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    Mr. MONISH KANNA S P
+                    CHANDAN DEBSINGHA
                   </h5>
                   <p className="text-base text-white">
-                    III YEAR-CSE <br />
-                    monishkanna.cs21@bitsathy.ac.in <br />
+                    IV YEAR-CSE <br />
+                    chandan123@gmail.com <br />
                     Backend
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
                     <a className=' cursor-pointer hover:text-accent' target='_blank' rel="noreferrer" href='http://sanjith-portfolio.netlify.app'>
-                      Mr. SANJITH R K
+                      ANGAD SINGH
                     </a> 
                   </h5>
                   <p className="text-base text-white">
-                    II YEAR-CSE <br />
-                    sanjith.cs22@bitsathy.ac.in <br />
+                    IV YEAR-CSE <br />
+                    angad12@gmail.com <br />
                     Frontend
                   </p>
                 </div>

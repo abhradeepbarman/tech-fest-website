@@ -1,6 +1,6 @@
 import React from 'react';
 import flogo from "../../assets/images/flogo.png";
-
+import Horizon_logo from '../../assets/images/horizon.png'
 const Footer = () => {
   return (
     <section 
@@ -11,7 +11,7 @@ const Footer = () => {
     >
       <div className="max-w-screen-xl py-10 px-4 sm:px-6 text-dimWhite border-t border-white sm:flex justify-between mx-auto">
         <div className="px-5  sm:w-4/12  text-center">
-          <img src={flogo} alt="logo" className='my-0 mb-10' />
+          <img src={Horizon_logo} alt="logo" className='my-0 mb-10' />
           <div className="flex flex-row gap-2 items-start justify-start mt-0 ml-4">
             {/* <a href="#" className="w-6 mx-1">
               <svg
@@ -146,7 +146,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex py-5 m-auto text-dimWhite text-sm flex-col items-center border-t max-w-screen-xl border-white">
-        <div className="my-2 text-center leading-6">Developed by<br /><span className='text-accent'> Gowtham <span className='text-white'>|</span> <a href='http://sanjith-portfolio.netlify.app' className='hover:text-white' rel="noreferrer" target='_blank'> Sanjith </a><span className='text-white'>|</span> Monish Kanna </span></div>
+        <div className="my-2 text-center leading-6">Developed by<br /><span className='text-accent'> Abhradeep Barman <span className='text-white'>|</span> <a href='http://sanjith-portfolio.netlify.app' className='hover:text-white' rel="noreferrer" target='_blank'> Chandan Debsingha </a><span className='text-white'>|</span> Angad Singh </span></div>
       </div>
     </section>
   )

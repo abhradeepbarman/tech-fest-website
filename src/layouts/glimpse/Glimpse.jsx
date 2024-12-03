@@ -37,7 +37,7 @@ function Glimpse() {
         <h3
           className=" text-3xl sm:text-6xl text-white uppercase tracking-wider px-16 leading-10 sm:px-0 mb-16 font-semibold"
         >
-          V-PRAYUKTI’23
+          HORIZON’24
         </h3>
         <Marquee>
           <MarqueeGroup>

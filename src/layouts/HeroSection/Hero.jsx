@@ -2,6 +2,7 @@ import React from 'react';
 import 'swiper/css';
 import Bgvideo from '../../assets/images/hero.mp4';
 import GetStarted from './Getstarted';
+import Horizon_logo from '../.././assets/images/horizon.png'
 
 // For screen width greater than 768px
 export const HeroSectionMd = () => {
@@ -39,7 +40,7 @@ export const HeroSectionMd = () => {
         </h2> */}
         <img
           className="mb-20 w-[60%] na:w-[80%] lg:w-[60%] sm:w-[80%]"
-          src={require('../../assets/images/flogo.png')}
+          src={Horizon_logo}
           alt="logo"
           data-aos="fade-up" data-aos-offset="10"
               data-aos-once="true"  data-aos-delay="0"
@@ -90,7 +91,7 @@ export const HeroSectionSm = () => {
       >
         <img
           className="mb-20 "
-          src={require('../../assets/images/flogo.png')}
+          src={Horizon_logo}
           alt="logo"
           width="100%"
           data-aos="fade-up" data-aos-offset="10"
